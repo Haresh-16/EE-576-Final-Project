@@ -7,6 +7,7 @@
           2. https://github.com/zju3dv/LoFTR
 4. SOTA works in 3D Scene Reconstruction - 
           1. https://paperswithcode.com/paper/bad-gaussians-bundle-adjusted-deblur-gaussian <break>
-
-5. Dataset-
+5. Semantic Segmentation Model (SAM Model) - 
+          1. https://github.com/facebookresearch/segment-anything
+6. Dataset-
              https://drive.google.com/drive/u/0/folders/1dEg4a4dAdb6A6jwTvNcu_1HK7S0EUkLC <break>
